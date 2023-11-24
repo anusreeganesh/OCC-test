@@ -1,0 +1,46 @@
+ @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+/* Font families and sizes*/
+.font-examp {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+/* Formatting Text */
+.format-examp .bold {
+    font-style: bold;
+}
+
+.format-examp .italic {
+    font-style: italic;
+}
+
+.format-examp .underline {
+    text-decoration: underline;
+}
+
+/* Text alignment */
+.alignment-examp {
+    text-align: center;
+}
+
+/* Text Decoration */
+.decoration-examp {
+    text-decoration: line-through;
+}
+
+/* Line Height and Letter Spacing */
+.line-spacing-examp {
+    line-height: 1.5;
+    letter-spacing: 2px;
+    background-color: aqua;
+}
+
+/* Text Shadows */
+.shadow-examp {
+ text-shadow: 2px 2px 4px red;
+}
+
+.import-font-examp {
+    font-family: 'Caveat', cursive;
+}
